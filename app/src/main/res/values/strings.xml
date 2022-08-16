@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Calculater</string>
+    <String name1= "Title">Age Calculater</String>
+    <String name2="Year">Enter Birth Year</String>
+    <String name3="btnCalculater">Calculate</String>
+
+</resources>
